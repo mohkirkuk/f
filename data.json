@@ -1,0 +1,28 @@
+{
+"name": "currency",
+"date": "2021-06-04",
+"time": "16-44-10",
+"pimg":"https://",
+"cur":
+[
+{
+"code":"us",
+"name":"america",
+"val":1,
+"cimg":"https://"
+},
+{
+"code":"er",
+"name":"erou",
+"val":0.8,
+"cimg":"https://"
+},
+{
+"code":"tl",
+"name":"turk lira",
+"val":850,
+"cimg":"https://"
+}
+
+]
+}
